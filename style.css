@@ -1,0 +1,109 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    background-color: black;
+    height: 10p;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+nav ul {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.tag {
+    margin: 10px;
+    padding: 10px;
+}
+
+.pic1 {
+    width: 100%;
+}
+
+.icepic {
+    display: flex;
+    flex: 1;
+}
+
+.ice {
+    width: 25%;
+    padding-left: 70px;
+}
+
+.icepic1 {
+    display: flex;
+    flex: 1;
+}
+
+.wide {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.icename {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ice1 {
+    width: 25%;
+    padding-left: 70px;
+}
+
+.icepic1 {
+    display: flex;
+    flex: 1;
+}
+
+.icename1 {30
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    width: 100%
+}
+.section{
+    display: flex;
+    text-align: center;
+}
+.ima{
+
+width: 150px;;
+height: 150px;
+margin-top: 20px;
+
+}
+.sec1{
+justify-content:center ;
+padding-left: 9% ;
+margin-top: 30px;
+}
+    
+
+
